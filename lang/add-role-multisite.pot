@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AddUserRoleMultisite 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-10 11:23:19+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-05-10 10:37-0500\n"
+"Last-Translator: kazu69\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#:views/admin.php:52
+msgid "Setting Done"
+msgstr "設定完了しました"
+
+#:views/admin.php:55
+msgid "Not update because there is no change, or an error occurred"
+msgstr "変更がない、またはエラーが発生したためアップデートを行いませんでした"
+
+#:views/admin.php:59
+msgid "Back"
+msgstr "戻る"
+
+#:views/admin.php:67
+msgid "Role it is applied to the current login (default_role)"
+msgstr "現在ログイン時に適用されるRole (default_role)"
+
+#:views/admin.php:70
+msgid "Set the Role to be applied on all networks"
+msgstr "全てのネットワークで適用するRoleを設定する"
+
+#:views/admin.php:82
+msgid "Not set up when the next Role (Exclusion list)"
+msgstr "次のRoleのときは設定をしない (除外リスト)"

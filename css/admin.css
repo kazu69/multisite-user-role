@@ -1,0 +1,27 @@
+#wp-add-role-multisite-settings {
+    position: relative;
+    overflow: hidden;
+}
+
+#wp-add-role-multisite-settings dt {
+    float: left;
+    width: 35%;
+    margin: 0 0 10px;
+    padding: .8em;
+}
+
+#wp-add-role-multisite-settings dd {
+    float: right;
+    width: 58%;
+    margin: 0 0 10px;
+    padding: .8em;
+}
+
+.end-comment {
+    margin: 15px 0;
+}
+
+.error {
+    color: #c00;
+    font-weight: 700;
+}
